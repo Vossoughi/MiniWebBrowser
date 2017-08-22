@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Browser</string>
+    <string name="editText_hint">Enter URL here</string>
+    <string name="button">Go</string>
+</resources>
